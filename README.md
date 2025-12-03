@@ -1,31 +1,28 @@
-## Hallo!
-
+# 👋 Hallo!  
 Schön, dass Du hier bist :)
 
-Nach Abschluss einer Weiterbildung zur Datenanalystin begebe ich mich auf eine spannende Entwicklungsreise mit einem Hobby IT Projekt.
+Nach meiner Weiterbildung zur Datenanalystin starte ich gerade in eine neue Phase:  
+eine kleine, aber spannende Entwicklungsreise mit meinem Hobby-IT-Projekt **KISS-IT**.
 
-Die Website dafür wird die bisherige Reise in der IT Ende 2025 abrunden, oder ein guter Anfang für 2026 sein.
+Mein Schwerpunkt liegt dabei auf **⚙️ Automatisierung, 🔗 APIs und 💡 einfachen technischen Lösungen**, die echte Abläufe erleichtern.  
+Parallel arbeite ich gern an **📚 Support- und Backoffice-Aufgaben**, weil mir strukturierte Arbeit und Hilfsbereitschaft liegen.
 
-Ich freue mich auf:
-#### ○ Erweiterung des Prototyps einer schlichten Vokabel-App mit zusätzlichen Features
-#### ○ Neue Töne auf einem Album mit handgemachter Musik und Einflüssen künstlicher Intelligenz
-#### ○ ...
+Die Website dazu wird entweder der Abschluss meiner IT-Reise 2025 oder der Anfang von etwas Neuem in 2026. Mal sehen :)
 
-⚡ Fun fact: Instrumente, die sich anhören wie "Topfschlagen", möchte niemand hören, also bleibe ich beim Schreiben der Texte.
+---
 
-Gruß zum Schluss, Keela
+## 🚀 Was als Nächstes ansteht:
 
-<!--
-**Keela-prog/Keela-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📱 Die Erweiterung meines Prototyps einer schlichten Vokabel-App  
+- 🎵 Neue Töne auf einem Album mit handgemachter Musik – **mit Unterstützung von KI für Gesangsexperimente**  
+  > Erster Testversuch: [t.M.P. feat. Keela AI (From Heaven)](https://www.youtube.com/watch?v=CX48ZNE9GZI)  
+  > Auf dem Album wird man die Weiterentwicklung der KI hören, da niemand von uns selbst singt (will oder traut sich nicht)  
+- ✨ …
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact:
--->
+⚡ **Fun Fact:**  
+Instrumente und ich sind wie „Topfschlagen“ und Kindergeburtstag – ich bleibe beim Texten ⛪⚓❤️📝🎵
+
+**Gruß zum Schluss,  
+Keela**
